@@ -7,7 +7,7 @@ public class MainClass
         return 14;
     }
 
-    public int getClass_number()
+    public int getClassNumber()
     {
         return class_number;
     }

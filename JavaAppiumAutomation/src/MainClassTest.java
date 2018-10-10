@@ -12,6 +12,6 @@ public class MainClassTest extends MainClass
     @Test
     public void testGetClassNumber()
     {
-        Assert.assertTrue("Метод getClass_number вернул значение меньше 45",getClass_number() > 45);
+        Assert.assertTrue("Метод getClass_number вернул значение меньше 45",getClassNumber() > 45);
     }
 }
