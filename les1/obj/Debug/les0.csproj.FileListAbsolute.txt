@@ -1,0 +1,10 @@
+C:\learn\CSharp\VSproj\les0\obj\Debug\les0.csprojAssemblyReference.cache
+C:\learn\CSharp\VSproj\les0\obj\Debug\les0.Properties.Resources.resources
+C:\learn\CSharp\VSproj\les0\obj\Debug\les0.csproj.GenerateResource.cache
+C:\learn\CSharp\VSproj\les0\obj\Debug\les0.csproj.CoreCompileInputs.cache
+C:\learn\CSharp\VSproj\les0\bin\Debug\les0.exe.config
+C:\learn\CSharp\VSproj\les0\bin\Debug\les0.exe
+C:\learn\CSharp\VSproj\les0\bin\Debug\les0.pdb
+C:\learn\CSharp\VSproj\les0\obj\Debug\les0.exe
+C:\learn\CSharp\VSproj\les0\obj\Debug\les0.pdb
+C:\learn\CSharp\VSproj\les0\obj\Debug\les0.GameForm.resources
